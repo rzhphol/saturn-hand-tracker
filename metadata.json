@@ -1,0 +1,7 @@
+{
+  "name": "Saturn Hand Tracker",
+  "description": "Interactive 3D Saturn particle system controlled by hand gestures via webcam.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
